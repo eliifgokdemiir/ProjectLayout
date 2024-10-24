@@ -11,9 +11,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let age: Int = 20
+        print(age)
         // Do any additional setup after loading the view.
     }
-
+    
 
 }
 
